@@ -1,0 +1,89 @@
+{
+
+    "bags": [
+
+        {   
+
+            "id": 1,
+
+            "img": "../src/assets/Sicily.png",
+
+            "name": "Sicily",
+
+            "manufactor": "DOLCE&GABBANA",
+
+            "description": "The Sicily bag is not just an accessory, it is the ideal companion that keeps everything you need organized within reach. Its front flap with double hidden magnet closure ensures security, while its elegant lines and signature double-plated plate underscore its status and quality.",
+
+            "price": 1200
+
+        },
+
+        {   
+
+            "id": 2,
+
+            "img": "../src/assets/sumka.png",
+
+            "name": "Half-moon",
+
+            "manufactor": "NOIR ROYAL",
+
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim felis urna, sed faucibus libero efficitur ut. Pellentesque consequat tristique consectetur. Mauris a tincidunt eros. Cras ultrices urna urna, id aliquam urna varius sagittis. ",
+
+            "price": 1000000
+
+        },
+        {
+            "id": 3,
+            "img": "../src/assets/classic.png",
+            "name": "Classic Flap",
+            "manufactor": "CHANEL",
+            "description": "The Classic Flap is an iconic symbol of elegance and timeless fashion. Crafted with fine leather and a signature quilted pattern, it is a perfect blend of luxury and practicality, suited for both formal and casual occasions.",
+            "price": 7500
+        },
+        {
+            "id": 4,
+            "img": "../src/assets/birkin.png",
+            "name": "Birkin",
+            "manufactor": "HERMÈS",
+            "description": "The Birkin bag is the epitome of craftsmanship and exclusivity. Known for its sleek design and spacious interior, it is a rare accessory, hand-made with the finest materials to last a lifetime.",
+            "price": 15000
+        },
+        {
+            "id": 5,
+            "img": "../src/assets/alma.png",
+            "name": "Alma",
+            "manufactor": "LOUIS VUITTON",
+            "description": "The Alma bag stands out with its distinctive shape and classic monogram canvas. Designed for functionality and elegance, it’s an ideal choice for everyday use with just the right touch of sophistication.",
+            "price": 2800
+        },
+        {
+            "id": 6,
+            "img": "../src/assets/galleria.png",
+            "name": "Galleria",
+            "manufactor": "PRADA",
+            "description": "The Galleria bag is a classic example of Prada’s refined style. With its clean lines and elegant silhouette, this bag is practical and versatile, making it a must-have for the modern, stylish woman.",
+            "price": 3500
+        },
+        {
+            "id": 7,
+            "img": "../src/assets/bamboo.png",
+            "name": "Bamboo",
+            "manufactor": "GUCCI",
+            "description": "The Bamboo bag features a unique handle made from bamboo, a hallmark of Gucci’s craftsmanship. It brings together innovation and heritage in a piece that is both stylish and eco-conscious.",
+            "price": 4200
+        },
+        {
+            "id": 8,
+            "img": "../src/assets/bayswater.png",
+            "name": "Bayswater",
+            "manufactor": "MULBERRY",
+            "description": "The Bayswater bag embodies British style with its structured design and rich leather. It’s both durable and spacious, perfect for daily use, and brings an element of understated luxury.",
+            "price": 2000
+        }
+
+       
+    ]
+
+}
+
